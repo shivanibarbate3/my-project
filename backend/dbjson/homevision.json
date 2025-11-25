@@ -1,0 +1,9 @@
+{
+    "_id" : ObjectId("677229dd95af031e14963b65"),
+    "title" : "Our Vision",
+    "image" : "8555_vision-img.png",
+    "short_des" : "We aim to bring together the best of technology and the best people to progressively supercharge school processes",
+    "created_at" : "",
+    "updated_at" : "",
+    "deleted_at" : null
+}

@@ -1,0 +1,27 @@
+{
+    "_id" : ObjectId("6773908b44d32ed1fbf04228"),
+    "title" : "Reduce operational costs & increased requests accuracy",
+    "icon" : "reduce_cost_increase_efficency.png",
+    "created_at" : "2025-01-05 05:45:05",
+    "updated_at" : "2025-01-05 05:45:05",
+    "deleted_at" : null,
+    "casestudy_id" : ObjectId("67738e2344d32ed1fbf04227")
+}
+{
+    "_id" : ObjectId("6784c08c1c6e3040bcce16cd"),
+    "title" : "Quicker decision-making & Approval processes",
+    "icon" : "Quicker_decision_making_Approval_processes.png",
+    "created_at" : "2025-01-05 05:45:05",
+    "updated_at" : "2025-01-05 05:45:05",
+    "deleted_at" : null,
+    "casestudy_id" : ObjectId("67738e2344d32ed1fbf04227")
+}
+{
+    "_id" : ObjectId("6784c0cb1c6e3040bcce16ce"),
+    "title" : "Prompt updates for your key prioritised work",
+    "icon" : "key_update.png",
+    "created_at" : "2025-01-05 05:45:05",
+    "updated_at" : "2025-01-05 05:45:05",
+    "deleted_at" : null,
+    "casestudy_id" : ObjectId("67738e2344d32ed1fbf04227")
+}

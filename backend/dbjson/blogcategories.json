@@ -1,0 +1,21 @@
+{
+    "_id" : ObjectId("6773918044d32ed1fbf0422b"),
+    "category_name" : "AI-Driven Business Processes",
+    "created_at" : "2025-01-05 05:45:05",
+    "updated_at" : "2025-01-05 05:45:05",
+    "deleted_at" : null
+}
+{
+    "_id" : ObjectId("677e644350a66b0671b24336"),
+    "category_name" : "Customer Journey Optimization",
+    "created_at" : "2025-01-05 05:45:05",
+    "updated_at" : "2025-01-05 05:45:05",
+    "deleted_at" : null
+}
+{
+    "_id" : ObjectId("677e645050a66b0671b24337"),
+    "category_name" : "Business Process Transformation",
+    "created_at" : "2025-01-05 05:45:05",
+    "updated_at" : "2025-01-05 05:45:05",
+    "deleted_at" : null
+}

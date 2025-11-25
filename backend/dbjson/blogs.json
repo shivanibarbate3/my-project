@@ -1,0 +1,60 @@
+{
+    "_id" : ObjectId("6773938144d32ed1fbf0422c"),
+    "category_id" : ObjectId("6773918044d32ed1fbf0422b"),
+    "title" : "AI interventions Should Be Central to Your School",
+    "image" : "blog-img.png",
+    "post_date" : "2024-09-04",
+    "short_des" : "Through careful execution, it can offer smarter ways to run processes better and faster through continuous learning and improvement, creating sustainable growth.",
+    "created_at" : "2025-01-05 05:45:05",
+    "updated_at" : "2025-01-05 05:45:05",
+    "deleted_at" : null,
+    "slug" : "ai-interventions-should-be-central-to-your-school"
+}
+{
+    "_id" : ObjectId("677e652950a66b0671b24338"),
+    "category_id" : ObjectId("677e644350a66b0671b24336"),
+    "title" : "Chatbot Today Enhance School Operational Journey",
+    "image" : "blog-img.png",
+    "post_date" : "2025-01-04",
+    "short_des" : "Schools can escalate engagement within their community with short resolution times and streamline interactive processes through the use of chatbots",
+    "created_at" : "2025-01-05 05:45:05",
+    "updated_at" : "2025-01-05 05:45:05",
+    "deleted_at" : null,
+    "slug" : "chatbots-today-enhance-school-operational-journey"
+}
+{
+    "_id" : ObjectId("677e655850a66b0671b24339"),
+    "category_id" : ObjectId("677e645050a66b0671b24337"),
+    "title" : "Technology Influence Can Foster Exponential Business Growth",
+    "image" : "blog-img.png",
+    "post_date" : "2024-09-04",
+    "short_des" : "The transformative role of technology in different parts of running a business brings streamlined operations and process optimization",
+    "created_at" : "2025-01-05 05:45:05",
+    "updated_at" : "2025-01-05 05:45:05",
+    "deleted_at" : null,
+    "slug" : "technology-influence-can-foster-exponential-business-growth"
+}
+{
+    "_id" : ObjectId("677e657350a66b0671b2433a"),
+    "category_id" : ObjectId("677e645050a66b0671b24337"),
+    "title" : "Technology Influence Can Foster Exponential Business Growth",
+    "image" : "blog-img.png",
+    "post_date" : "2024-12-04",
+    "short_des" : "The transformative role of technology in different parts of running a business brings streamlined operations and process optimization",
+    "created_at" : "2025-01-05 05:45:05",
+    "updated_at" : "2025-01-05 05:45:05",
+    "deleted_at" : null,
+    "slug" : "technology-influence-can-foster-exponential-business-growth"
+}
+{
+    "_id" : ObjectId("677e6bdf50a66b0671b2433b"),
+    "category_id" : ObjectId("677e645050a66b0671b24337"),
+    "title" : "Technology Influence Can Foster Exponential Business Growth",
+    "image" : "blog-img.png",
+    "post_date" : "2024-12-04",
+    "short_des" : "The transformative role of technology in different parts of running a business brings streamlined operations and process optimization",
+    "created_at" : "2025-01-05 05:45:05",
+    "updated_at" : "2025-01-05 05:45:05",
+    "deleted_at" : null,
+    "slug" : "technology-influence-can-foster-exponential-business-growth1"
+}

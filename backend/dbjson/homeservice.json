@@ -1,0 +1,30 @@
+{
+    "_id" : ObjectId("6772289c95af031e14963b62"),
+    "title" : "Digital Product Development",
+    "icon" : "47555555_digital_product_development_icon_red.png",
+    "hover_icon" : "",
+    "short_descirption" : "We deploy cutting-edge digital technologies to develop innovations that revolutionize processes which are scalable and intuitive solutions that start from ideation to deployment to maximize overall digital experiences.                ",
+    "created_at" : "",
+    "updated_at" : "",
+    "deleted_at" : null
+}
+{
+    "_id" : ObjectId("6776688c25d9e513295ee10f"),
+    "title" : "Business Process Optimization",
+    "icon" : "56455658_business_process_optimization_icon_blue.png",
+    "hover_icon" : "",
+    "short_descirption" : "We process engineering techniques by leveraging AI-driven insights for optimized workflows. Our operations help in analyzing your processes by identifying bottlenecks and eliminating them effectively with the implementation of intelligent automation solutions. ",
+    "created_at" : "",
+    "updated_at" : "",
+    "deleted_at" : null
+}
+{
+    "_id" : ObjectId("677668e925d9e513295ee110"),
+    "title" : "AI & Automation",
+    "icon" : "243456457_ai_&_automation_red.png",
+    "hover_icon" : "",
+    "short_descirption" : "We can harness the power of Artificial Intelligence with adaptive algorithms and cognitive automation solutions that enable decision-making, process automation and predictive analytics.",
+    "created_at" : "",
+    "updated_at" : "",
+    "deleted_at" : null
+}

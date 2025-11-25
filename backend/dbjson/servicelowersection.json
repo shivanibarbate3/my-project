@@ -1,0 +1,10 @@
+{
+    "_id" : ObjectId("67723d9995af031e14963b79"),
+    "title" : "Got a challenge brewing?",
+    "sub_title" : "Get a free “Proof of Concept” delivered in 72 hrs",
+    "image" : "6985858585_service-team-image.png",
+    "button_title" : "Send Your Requirements Here",
+    "created_at" : "2025-01-05 05:45:05",
+    "updated_at" : "2025-01-05 05:45:05",
+    "deleted_at" : null
+}

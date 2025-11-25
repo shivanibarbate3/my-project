@@ -1,0 +1,36 @@
+{
+    "_id" : ObjectId("67727857651a33b263e8efd4"),
+    "product_id" : ObjectId("6772440895af031e14963b7c"),
+    "ban_title_one" : "ERP for",
+    "ban_title_two" : "Progressive Enterprises",
+    "ban_title_third" : "Watch the Product in Action",
+    "product_image" : "desktop-file-psd.png",
+    "product_intro" : "Speed up Your Key Processes Digitally",
+    "short_desc" : "Our easy to use ERP System simplifies processes for more informed decision taking",
+    "title" : "Optimize and validate your tasks rightly with our progressive ERP",
+    "descrip" : "Tackle crucial administrative tasks that could be payroll processes, budget approvals, or leave requests piling up; reduce the complexity by automating them with clear tracking of your workflows.",
+    "product_key" : "Effective Key Features",
+    "product_tangiable" : "Impacts That Are Tangible",
+    "product_lower_sec" : "Schedule a demo to see how our product can enhance your key processes.",
+    "created_at" : "2025-01-05 05:45:05",
+    "deleted_at" : null,
+    "updated_at" : "2025-01-05 05:45:05"
+}
+{
+    "_id" : ObjectId("677e28b950a66b0671b2432e"),
+    "product_id" : ObjectId("677d04ac2f0dc9a9e0ad420a"),
+    "ban_title_one" : "Workshop Management",
+    "ban_title_two" : "System",
+    "ban_title_third" : "Watch the Product in Action",
+    "product_image" : "desktop-file-psd.png",
+    "product_intro" : "Speed up Your Key Processes Digitally",
+    "short_desc" : "Our easy to use ERP System simplifies processes for more informed decision taking",
+    "title" : "Optimize and validate your tasks rightly with our progressive ERP",
+    "descrip" : "Tackle crucial administrative tasks that could be payroll processes, budget approvals, or leave requests piling up; reduce the complexity by automating them with clear tracking of your workflows.",
+    "product_key" : "Effective Key Features",
+    "product_tangiable" : "Impacts That Are Tangible",
+    "product_lower_sec" : "Schedule a demo to see how our product can enhance your key processes.",
+    "created_at" : "2025-01-05 05:45:05",
+    "deleted_at" : null,
+    "updated_at" : "2025-01-05 05:45:05"
+}

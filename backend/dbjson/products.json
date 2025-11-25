@@ -1,0 +1,60 @@
+{
+    "_id" : ObjectId("6772440895af031e14963b7c"),
+    "title" : "Enterprise Resource Planning",
+    "short_des" : "Automate your primary processes in schools with our ERP System",
+    "image" : "eform-img.jpg",
+    "video_image" : "47555_video-img-sec.png",
+    "video" : "Watch_Video_Eform.mp4",
+    "created_at" : "2025-01-05 05:45:05",
+    "updated_at" : "2025-01-05 05:45:05",
+    "deleted_at" : null,
+    "slug" : "enterprise-resource-planning"
+}
+{
+    "_id" : ObjectId("677d04ac2f0dc9a9e0ad420a"),
+    "title" : "Workshop Management System",
+    "short_des" : "Optimize all your training tasks in your school community through one centralized platform in no time.",
+    "image" : "workshop-img.png",
+    "video_image" : "",
+    "video" : "",
+    "created_at" : "2025-01-05 05:45:05",
+    "updated_at" : "2025-01-05 05:45:05",
+    "deleted_at" : null,
+    "slug" : "workshop-management-system"
+}
+{
+    "_id" : ObjectId("677d050a2f0dc9a9e0ad420b"),
+    "title" : "Absence Reporting Portal",
+    "short_des" : "Streamline all leave processes for the school staff in one digital portal.",
+    "image" : "absence-reporting-img.png",
+    "video_image" : "",
+    "video" : "",
+    "created_at" : "2025-01-05 05:45:05",
+    "updated_at" : "2025-01-05 05:45:05",
+    "deleted_at" : null,
+    "slug" : "absence-reporting-portal"
+}
+{
+    "_id" : ObjectId("677d05342f0dc9a9e0ad420c"),
+    "title" : "Inventory Management System",
+    "short_des" : "Reduce the complexity of misplaced assets in the school setup with one solution.",
+    "image" : "inventory-img.png",
+    "video_image" : "",
+    "video" : "",
+    "created_at" : "2025-01-05 05:45:05",
+    "updated_at" : "2025-01-05 05:45:05",
+    "deleted_at" : null,
+    "slug" : "inventory-management-system"
+}
+{
+    "_id" : ObjectId("677d05a12f0dc9a9e0ad420d"),
+    "title" : "AI-Powered Chatbot",
+    "short_des" : "Interact efficiently across your school community with our high-quality AI chatbot.",
+    "image" : "absence-reporting-img.png",
+    "video_image" : "",
+    "video" : "",
+    "created_at" : "2025-01-05 05:45:05",
+    "updated_at" : "2025-01-05 05:45:05",
+    "deleted_at" : null,
+    "slug" : "ai-powered-chatbot"
+}

@@ -1,0 +1,36 @@
+{
+    "_id" : ObjectId("67723b0b95af031e14963b78"),
+    "title" : "Enhanced Security & Deployment",
+    "icon" : "885855_Deployment_icon_new_blue.png",
+    "short_descirption" : "Prioritizing the protection of digital tools and sensitive information to prevent unauthorized access.",
+    "created_at" : "2025-01-05 05:45:05",
+    "updated_at" : "2025-01-05 05:45:05",
+    "deleted_at" : null
+}
+{
+    "_id" : ObjectId("677cb9642f0dc9a9e0ad4207"),
+    "title" : "Agile Work Model",
+    "icon" : "5555_agile_work_modal_blue_icon.png",
+    "short_descirption" : "Ensures timely resolution of issues while maintaining a strong security posture through continuous monitoring and assessment.",
+    "created_at" : "2025-01-05 05:45:05",
+    "updated_at" : "2025-01-05 05:45:05",
+    "deleted_at" : null
+}
+{
+    "_id" : ObjectId("677cb9c42f0dc9a9e0ad4208"),
+    "title" : "Maintenance & Upgrades",
+    "icon" : "885858_maintaince_upgrade_img.png",
+    "short_descirption" : "We provide regular system updates and improvements that evolve alongside emerging threats and vulnerabilities.",
+    "created_at" : "2025-01-05 05:45:05",
+    "updated_at" : "2025-01-05 05:45:05",
+    "deleted_at" : null
+}
+{
+    "_id" : ObjectId("677cba1d2f0dc9a9e0ad4209"),
+    "title" : "Our Exclusive Support",
+    "icon" : "77888_our_exclusive_support_icon_blue.png",
+    "short_descirption" : "With proactive monitoring and troubleshooting, ensuring your infrastructure is fortified against potential risks.",
+    "created_at" : "2025-01-05 05:45:05",
+    "updated_at" : "2025-01-05 05:45:05",
+    "deleted_at" : null
+}

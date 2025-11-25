@@ -1,0 +1,12 @@
+{
+    "_id" : ObjectId("67739fae44d32ed1fbf04231"),
+    "address" : "",
+    "phone" : "",
+    "email" : "",
+    "facebook" : "",
+    "twitter" : "",
+    "linkdin" : "",
+    "created_at" : "",
+    "updated_at" : "",
+    "deleted_at" : "null"
+}

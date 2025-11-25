@@ -1,0 +1,40 @@
+{
+    "_id" : ObjectId("67727c84651a33b263e8efd6"),
+    "product_id" : ObjectId("6772440895af031e14963b7c"),
+    "title" : "Automated Data Validation",
+    "icon" : "automated_data_validation_blue.png",
+    "short_descirption" : "Ensure accuracy with features that validate information, reducing manual input and errors.",
+    "created_at" : "2025-01-05 05:45:05",
+    "updated_at" : "2025-01-05 05:45:05",
+    "deleted_at" : null
+}
+{
+    "_id" : ObjectId("677e2a2950a66b0671b24331"),
+    "product_id" : ObjectId("6772440895af031e14963b7c"),
+    "title" : "Approvers with Stakeholders",
+    "icon" : "efficoent.png",
+    "short_descirption" : "Instantly notifies approvers via automated emails, streamlining the approval process and minimizing delays.",
+    "created_at" : "2025-01-05 05:45:05",
+    "updated_at" : "2025-01-05 05:45:05",
+    "deleted_at" : null
+}
+{
+    "_id" : ObjectId("677e2a6250a66b0671b24332"),
+    "product_id" : ObjectId("6772440895af031e14963b7c"),
+    "title" : "User-Friendly Interface",
+    "icon" : "user-friendly_icon_blue.png",
+    "short_descirption" : "Designed for ease of use, making it accessible for everyone in your organization.",
+    "created_at" : "2025-01-05 05:45:05",
+    "updated_at" : "2025-01-05 05:45:05",
+    "deleted_at" : null
+}
+{
+    "_id" : ObjectId("677e2a7f50a66b0671b24333"),
+    "product_id" : ObjectId("6772440895af031e14963b7c"),
+    "title" : "Management Information System",
+    "icon" : "report_blue.png",
+    "short_descirption" : "Generate Insightful reports to understand how efficiently the your organization is progressing.",
+    "created_at" : "2025-01-05 05:45:05",
+    "updated_at" : "2025-01-05 05:45:05",
+    "deleted_at" : null
+}

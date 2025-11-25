@@ -1,0 +1,17 @@
+{
+    "_id" : ObjectId("67739cf644d32ed1fbf0422f"),
+    "title" : "",
+    "location" : "",
+    "date" : "",
+    "no_vac" : "",
+    "banner_title" : "",
+    "banner_subtitle" : "",
+    "experience" : "",
+    "qualification" : "",
+    "emp_type" : "",
+    "job_desc" : "",
+    "apply_mail" : "",
+    "created_at" : "",
+    "updated_at" : "",
+    "deleted_at" : "null"
+}
