@@ -11,7 +11,7 @@
     "build-client": "npm --prefix client run build",
     "install-client": "npm --prefix client install",
     "sync-uploads": "node scripts/syncUploadsToS3.js",
-    "vercel-build": "npm run build-client"
+    "vercel-build": "npm --prefix client run build"
   },
   "keywords": [],
   "author": "",
