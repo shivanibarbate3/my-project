@@ -50,6 +50,11 @@ app.get('/testing', (req, res) => {
   res.send('API is running...');
 });
 
+// Vercel routes API traffic to /api/* -> server.js, add api-prefixed test route
+app.get('/api/testing', (req, res) => {
+  res.send('API is running...');
+});
+
 // Global error handler
 app.use((err, req, res, next) => {
   console.error('Unhandled error:', err && err.stack ? err.stack : err);
