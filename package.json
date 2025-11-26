@@ -1,0 +1,13 @@
+{
+  "name": "shivani-cms-root",
+  "private": true,
+  "scripts": {
+    "install-all": "npm --prefix backend install && npm --prefix backend/client install",
+    "dev": "concurrently \"npm --prefix backend run dev\" \"npm --prefix backend run client\"",
+    "build": "npm --prefix backend run build-client",
+    "start": "npm --prefix backend run start"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
